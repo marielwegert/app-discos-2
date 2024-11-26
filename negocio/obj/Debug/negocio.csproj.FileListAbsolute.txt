@@ -1,0 +1,9 @@
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\bin\Debug\negocio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\bin\Debug\negocio.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\bin\Debug\dominio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\bin\Debug\dominio.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\obj\Debug\negocio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\negocio\obj\Debug\negocio.pdb

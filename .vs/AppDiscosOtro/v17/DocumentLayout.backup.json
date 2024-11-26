@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32A07F-D44B-4DE7-B1A7-97CE311CBEE7}|principal\\principal.csproj|d:\\cursos\\curso maxi programa\\curso c# nivel 2 - .net \u002B sql\\app disco\\appdiscosotro\\principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32A07F-D44B-4DE7-B1A7-97CE311CBEE7}|principal\\principal.csproj|solutionrelative:principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32A07F-D44B-4DE7-B1A7-97CE311CBEE7}|principal\\principal.csproj|D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB32A07F-D44B-4DE7-B1A7-97CE311CBEE7}|principal\\principal.csproj|solutionrelative:principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\principal\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "principal\\frmPrincipal.cs",
+              "ToolTip": "D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\principal\\frmPrincipal.cs",
+              "RelativeToolTip": "principal\\frmPrincipal.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAYwBIBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:50:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\principal\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "principal\\frmPrincipal.cs",
+              "ToolTip": "D:\\CURSOS\\Curso Maxi Programa\\Curso C# Nivel 2 - .Net \u002B SQL\\App DISCO\\AppDiscosOtro\\principal\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "principal\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:01:53.191Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

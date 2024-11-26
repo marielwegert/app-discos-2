@@ -1,0 +1,17 @@
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\principal.exe.config
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\principal.exe
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\principal.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\FontAwesome.Sharp.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.csproj.AssemblyReference.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.frmAltaDisco.resources
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.frmPrincipal.resources
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.Properties.Resources.resources
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.csproj.GenerateResource.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.csproj.Up2Date
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.exe
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\obj\Debug\principal.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\dominio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\negocio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\dominio.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\principal\bin\Debug\negocio.pdb

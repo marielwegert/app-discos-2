@@ -1,0 +1,6 @@
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\bin\Debug\dominio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\bin\Debug\dominio.pdb
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\obj\Debug\dominio.dll
+D:\CURSOS\Curso Maxi Programa\Curso C# Nivel 2 - .Net + SQL\App DISCO\AppDiscosOtro\dominio\obj\Debug\dominio.pdb
